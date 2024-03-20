@@ -6,7 +6,7 @@ namespace Ejercicio_A01
     {
         static void Main(string[] args)
         {
-            List <Conductor> listaConductores = new List<Conductor>();
+            List<Conductor> listaConductores = new List<Conductor>();
             Console.WriteLine("Empieza el programa!");
             Conductor conductor1 = new Conductor("Papá Músculoso Sorrenstein");
             Conductor conductor2 = new Conductor("Homero");
@@ -34,7 +34,7 @@ namespace Ejercicio_A01
             }
             Console.WriteLine("*********************************");
             // Calcula el que hizo mas KM en la semana
-            for (int i = 0; i < listaConductores.Count; i++) 
+            for (int i = 0; i < listaConductores.Count; i++)
             {
                 if (min > listaConductores[i].RecorridoTotal)
                 {

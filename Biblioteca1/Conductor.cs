@@ -25,12 +25,12 @@ namespace Biblioteca1
         }
         public List<int> ListaRecorridos
         {
-            get { return listaRecorridos;}
+            get { return listaRecorridos; }
         }
         public int RecorridoTotal
         {
             get { return recorridoTotal; }
-            set { recorridoTotal = value;}
+            set { recorridoTotal = value; }
         }
         public void IngresarRecorridos()
         {
