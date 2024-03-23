@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometria", "Geometria\Geom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio A01", "Ejercicio A01\Ejercicio A01.csproj", "{71043289-18E0-4015-907F-124EAFE4AFA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca2", "Biblioteca2\Biblioteca2.csproj", "{D7B24CEB-BCD7-4F97-A67D-7572C8FFF338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca2", "Biblioteca2\Biblioteca2.csproj", "{D7B24CEB-BCD7-4F97-A67D-7572C8FFF338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio A01v2", "Ejercicio A01v2\Ejercicio A01v2.csproj", "{EDE3A7B3-B077-44C9-A0E5-69A974F9735B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio A01v2", "Ejercicio A01v2\Ejercicio A01v2.csproj", "{EDE3A7B3-B077-44C9-A0E5-69A974F9735B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio A02", "Ejercicio A02\Ejercicio A02.csproj", "{C6A91A6F-D10C-479F-8691-7221F5BBDB3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca3", "Biblioteca3\Biblioteca3.csproj", "{783CA610-B06C-4BEA-9661-BDEFB96F428A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{EDE3A7B3-B077-44C9-A0E5-69A974F9735B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDE3A7B3-B077-44C9-A0E5-69A974F9735B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDE3A7B3-B077-44C9-A0E5-69A974F9735B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A91A6F-D10C-479F-8691-7221F5BBDB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A91A6F-D10C-479F-8691-7221F5BBDB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A91A6F-D10C-479F-8691-7221F5BBDB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A91A6F-D10C-479F-8691-7221F5BBDB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783CA610-B06C-4BEA-9661-BDEFB96F428A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783CA610-B06C-4BEA-9661-BDEFB96F428A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783CA610-B06C-4BEA-9661-BDEFB96F428A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783CA610-B06C-4BEA-9661-BDEFB96F428A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
